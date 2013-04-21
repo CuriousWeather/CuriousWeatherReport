@@ -8,7 +8,7 @@
     <ProjectGuid>{03ED4872-34E7-4597-A41A-F64D3E03F290}</ProjectGuid>
     <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WishYouWereHere</RootNamespace>
+    <RootNamespace>CuriousWeather</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>WishYouWereHere</AssemblyName>
   </PropertyGroup>
