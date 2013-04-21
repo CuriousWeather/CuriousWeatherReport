@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using MonoTouch.CoreText;
 
-namespace WishYouWereHere
+namespace CuriousWeather
 {
   public partial class TweetsViewController : UIViewController
   {

@@ -5,7 +5,7 @@ using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 using System.Linq;
 
-namespace WishYouWereHere
+namespace CuriousWeather
 {
   public partial class WeatherViewController : UIViewController
   {

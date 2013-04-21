@@ -8,7 +8,7 @@ using MonoTouch.UIKit;
 using System.Drawing;
 using BigTed;
 
-namespace WishYouWereHere
+namespace CuriousWeather
 {
   public class App
   {

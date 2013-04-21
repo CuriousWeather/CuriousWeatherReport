@@ -6,7 +6,7 @@
 //
 using MonoTouch.Foundation;
 
-namespace WishYouWereHere
+namespace CuriousWeather
 {
 	[Register ("TweetsViewController")]
 	partial class TweetsViewController

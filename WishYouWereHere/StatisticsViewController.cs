@@ -7,7 +7,7 @@ using BarChart;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace WishYouWereHere
+namespace CuriousWeather
 {
   public partial class StatisticsViewController : UIViewController
   {
